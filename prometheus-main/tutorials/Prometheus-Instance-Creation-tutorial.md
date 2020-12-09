@@ -99,5 +99,6 @@ You will see the Prometheus metrics page as below :
 
 ![](_images/prom.png)
 
+
 This is the minimal steps of getting the Prometheus Operator Instances. You need to modify the instance accordingly for your application.
 
